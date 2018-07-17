@@ -1,2 +1,8 @@
 my name is duantongtong!
+function ()
+{
 
+    console.log("hello world!")
+
+
+}
